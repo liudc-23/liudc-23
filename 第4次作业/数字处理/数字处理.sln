@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "数字处理", "数字处理\数字处理.vcxproj", "{F91EEA72-DDD6-4C5D-91E4-5D512F5D6DBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F91EEA72-DDD6-4C5D-91E4-5D512F5D6DBF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F91EEA72-DDD6-4C5D-91E4-5D512F5D6DBF}.Debug|Win32.Build.0 = Debug|Win32
+		{F91EEA72-DDD6-4C5D-91E4-5D512F5D6DBF}.Release|Win32.ActiveCfg = Release|Win32
+		{F91EEA72-DDD6-4C5D-91E4-5D512F5D6DBF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,27 @@
+﻿生成启动时间为 2023/10/19 23:10:46。
+     1>项目“C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\format\format\format.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\visual studio 2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt format.cpp
+         format.cpp
+     1>c:\users\lenovo\documents\visual studio 2012\projects\format\format\format.cpp(5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2012\vc\include\stdio.h(290) : 参见“scanf”的声明
+     1>c:\users\lenovo\documents\visual studio 2012\projects\format\format\format.cpp(6): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\lenovo\documents\visual studio 2012\projects\format\format\format.cpp(7): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\lenovo\documents\visual studio 2012\projects\format\format\format.cpp(8): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\lenovo\documents\visual studio 2012\projects\format\format\format.cpp(9): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\lenovo\documents\visual studio 2012\projects\format\format\format.cpp(10): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\lenovo\documents\visual studio 2012\projects\format\format\format.cpp(11): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\lenovo\documents\visual studio 2012\projects\format\format\format.cpp(12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\lenovo\documents\visual studio 2012\projects\format\format\format.cpp(13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\lenovo\documents\visual studio 2012\projects\format\format\format.cpp(14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\lenovo\documents\visual studio 2012\projects\format\format\format.cpp(15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\lenovo\documents\visual studio 2012\projects\format\format\format.cpp(16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\lenovo\documents\visual studio 2012\projects\format\format\format.cpp(17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+       Link:
+         D:\visual studio 2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\format\Debug\format.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\format\Debug\format.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\format\Debug\format.lib" /MACHINE:X86 Debug\format.obj
+         format.vcxproj -> C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\format\Debug\format.exe
+     1>已完成生成项目“C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\format\format\format.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.31

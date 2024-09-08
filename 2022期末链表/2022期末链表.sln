@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2022期末链表", "2022期末链表\2022期末链表.vcxproj", "{04009A3E-D386-42A4-B1E0-D9D206E8C094}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04009A3E-D386-42A4-B1E0-D9D206E8C094}.Debug|Win32.ActiveCfg = Debug|Win32
+		{04009A3E-D386-42A4-B1E0-D9D206E8C094}.Debug|Win32.Build.0 = Debug|Win32
+		{04009A3E-D386-42A4-B1E0-D9D206E8C094}.Release|Win32.ActiveCfg = Release|Win32
+		{04009A3E-D386-42A4-B1E0-D9D206E8C094}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

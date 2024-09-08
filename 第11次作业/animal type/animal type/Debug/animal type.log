@@ -1,0 +1,13 @@
+﻿生成启动时间为 2024/1/1 17:04:24。
+     1>项目“c:\Users\Lenovo\documents\visual studio 2012\Projects\animal type\animal type\animal type.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\visual studio 2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt animal.cpp
+         animal.cpp
+     1>c:\users\lenovo\documents\visual studio 2012\projects\animal type\animal type\animal.cpp(11): error C2248: “animal::age”: 无法访问 private 成员(在“animal”类中声明)
+                 c:\users\lenovo\documents\visual studio 2012\projects\animal type\animal type\animal.cpp(5) : 参见“animal::age”的声明
+                 c:\users\lenovo\documents\visual studio 2012\projects\animal type\animal type\animal.cpp(3) : 参见“animal”的声明
+     1>已完成生成项目“c:\Users\Lenovo\documents\visual studio 2012\Projects\animal type\animal type\animal type.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.33
